@@ -1,0 +1,15 @@
+{
+	"event": "TrackTestCoverageEvent",
+	"venture_config_id": "57EFFB23-1731-4348-B306-9F3819D12FEB",
+	"venture_reference": "C1C9025B-AEE0-4943-886E-466301F02BED",
+	"created_at": "2021-03-02T08:30:00+00:00",
+	"culture": "en_EN",
+	"action_type": "api",
+	"action_reference": "",
+	"version": "1.0.0",
+	"route": "",
+	"payload": {
+		"service_name": "test",
+		"coverage": 23.5
+	}
+}

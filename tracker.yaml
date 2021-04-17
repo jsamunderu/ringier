@@ -1,0 +1,7 @@
+host: ""
+port: "8080"
+loglevel: 4 
+dbName: "./stats.db"
+webTemplate: "index.tmpl"
+styleSheet: "/style.css"
+destEndpoint: "http://httpbin.org/status/200"
